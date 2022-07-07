@@ -1,2 +1,3 @@
 tat ca moi nguoi tren the gioi nay deu khong co ai that su tot
 them du lieu vao master
+du lieu duoc them tren remote
